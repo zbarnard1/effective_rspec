@@ -1,0 +1,15 @@
+example_id                                         | status  | run_time        |
+-------------------------------------------------- | ------- | --------------- |
+./spec/acceptance/expense_tracker_api_spec.rb[1:1] | pending | 0.24557 seconds |
+./spec/coffee_spec.rb[1:1]                         | passed  | 0.00095 seconds |
+./spec/coffee_spec.rb[1:2:1]                       | passed  | 0.00016 seconds |
+./spec/coffee_spec.rb[1:2:2]                       | passed  | 0.00014 seconds |
+./spec/coffee_spec.rb[1:2:3]                       | passed  | 0.00012 seconds |
+./spec/sandwich_spec.rb[1:1]                       | failed  | 0.00014 seconds |
+./spec/sandwich_spec.rb[1:2]                       | failed  | 0.00009 seconds |
+./spec/tea_spec.rb[1:1]                            | passed  | 0.00123 seconds |
+./spec/tea_spec.rb[1:2]                            | passed  | 0.01438 seconds |
+./spec/unit/app/api_spec.rb[1:1:1:1]               | pending | 0.00002 seconds |
+./spec/unit/app/api_spec.rb[1:1:1:2]               | pending | 0.00001 seconds |
+./spec/unit/app/api_spec.rb[1:1:2:1]               | pending | 0.00001 seconds |
+./spec/unit/app/api_spec.rb[1:1:2:2]               | pending | 0.00001 seconds |
